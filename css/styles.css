@@ -1,0 +1,45 @@
+body {
+	background-color: #233B6E;
+}
+
+.container {
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+	background-color: black;
+}
+
+
+.red {
+	background-color: #415F9D;
+}
+
+.row-div {
+	background-color: green;
+	margin: 0px;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+}
+
+.col-div {
+	display: block;
+	margin: 0px;
+}
+
+div {
+	
+}
+
+@font-face {
+  font-family: 'Shkoder';
+  src:  url('Shkoder.otf');
+        
+}
+
+
+.custom {
+font-family: "Shkoder";
+font-size: 100px;
+color: red;
+}
